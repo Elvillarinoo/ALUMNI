@@ -1,3 +1,5 @@
+"use client"; // Add this at the top of your file
+
 import { useState } from "react";
 import {
   Box,
